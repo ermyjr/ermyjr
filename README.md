@@ -20,4 +20,4 @@ Caso queiram entrar em contato podem me procurar pelos links:
 <a href="mailto:ermyjr94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br>
 <br>
-![Elizeu Stats](https://github-readme-stats.vercel.app/api?username=ermyjr&show_icons=true&theme=radical)
+![Elizeu Stats](https://github-readme-stats.vercel.app/api?username=ermyjr&show_icons=true&theme=merko)
