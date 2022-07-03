@@ -12,6 +12,13 @@ Tenho criados projetos usando:
 <br>
 <br>
 <br>
+Também possuo conhecimento em:
+<br>
+<br>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<br>
+<br>
+<br>
 Caso queiram entrar em contato podem me procurar pelos links:
 <br>
 <br>
