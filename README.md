@@ -21,3 +21,5 @@ Caso queiram entrar em contato podem me procurar pelos links:
 <br>
 <br>
 ![Elizeu Stats](https://github-readme-stats.vercel.app/api?username=ermyjr&show_icons=true&theme=merko)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermyjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
