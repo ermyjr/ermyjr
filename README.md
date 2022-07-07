@@ -28,6 +28,6 @@ Caso queiram entrar em contato podem me procurar pelos links:
 <a href="mailto:ermyjr94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br>
 <br>
-![Elizeu Stats](https://github-readme-stats.vercel.app/api?username=ermyjr&show_icons=true&theme=merko)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermyjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ermyjr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ermyjr&theme=dracula&hide_border=false&&layout=compact"/>
+
