@@ -31,4 +31,4 @@ Caso queiram entrar em contato podem me procurar pelos links:
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ermyjr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ermyjr&theme=dracula&hide_border=false&&layout=compact"/>
 
-![Snake animation](https://github.com/ermyjr/ermyjr/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/ermyjr/ermyjr/blob/output/github-contribution-grid-snake.svg)
