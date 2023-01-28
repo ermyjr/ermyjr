@@ -1,15 +1,15 @@
 Olá :wave:
 <br>
 <br>
-Me Chamo Elizeu Junior, mas é mais fácil me encontrar como ErmyJr na rede :stuck_out_tongue_closed_eyes:.
+Me Chamo Elizeu Junior,podem buscar como ErmyJr nas redes :stuck_out_tongue_closed_eyes:.
 <br>
-Atualmente trabalho como funcionario público, mas buscando a mundança para area de Desenvolvedor. Curso Analise de Sistemas pela UNIP, Ciências de Dados - UFMS e também estudo programação full Stack - DEVCLUB.
+Desenvolvedor Web Front-End. Cursando Analise de Sistemas - UNIP, Ciências de Dados - UFMS e Desenvolvimento Web FullStack - DEVCLUB.
 Tenho criados projetos usando:
 <br>
 <br>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-HTML"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "logo-java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "logo-JS"/>
 <br>
 <br>
 <br>
@@ -20,7 +20,7 @@ Também possuo conhecimento em:
 <br>
 <br>
 <br>
-Caso queiram entrar em contato podem me procurar pelos links:
+Contato pelos links:
 <br>
 <br>
 <a href="https://www.linkedin.com/in/Elizeu-Jr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
