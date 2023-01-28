@@ -1,9 +1,11 @@
 Olá :wave:
 <br>
 <br>
-Me Chamo Elizeu Junior,podem buscar como ErmyJr nas redes :stuck_out_tongue_closed_eyes:.
+Me Chamo Elizeu Junior,podem buscar como ErmyJr nas redes sociais.
 <br>
-Desenvolvedor Web Front-End. Cursando Analise de Sistemas - UNIP, Ciências de Dados - UFMS e Desenvolvimento Web FullStack - DEVCLUB.
+Desenvolvedor Web Front-End.
+<br>
+Cursando Analise de Sistemas - UNIP, Ciências de Dados - UFMS e Desenvolvimento Web FullStack - DEVCLUB.
 Tenho criados projetos usando:
 <br>
 <br>
