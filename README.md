@@ -5,7 +5,7 @@ Me Chamo Elizeu Junior,podem buscar como ErmyJr nas redes sociais.
 <br>
 Desenvolvedor Web Front-End.
 <br>
-Cursando Analise de Sistemas - UNIP, Ciências de Dados - UFMS e Desenvolvimento Web FullStack - DEVCLUB.
+Cursando Analise de Sistemas - UNIP, Ciências dos Dados - UFMS e Desenvolvimento Web FullStack - DEVCLUB.
 Tenho criados projetos usando:
 <br>
 <br>
