@@ -6,8 +6,9 @@ Me Chamo Elizeu Junior,podem buscar como ErmyJr nas redes sociais.
 Desenvolvedor Web Front-End.
 <br>
 Cursando Analise de Sistemas - UNIP, Ciências dos Dados - UFMS e Desenvolvimento Web FullStack - DEVCLUB.
-Tenho criados projetos usando:
 <br>
+<br>
+Tenho criados projetos usando:
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-HTML"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-CSS"/>
