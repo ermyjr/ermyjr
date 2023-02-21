@@ -38,7 +38,7 @@ Contate-me pelas plataformas:
 <a href="mailto:ermyjr94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br>
 <br>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ermyjr&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple_border=false&show_owner=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ermyjr&theme=midnight-purple_border=false&&layout=compact"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ermyjr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ermyjr&theme=dracula&hide_border=false&&layout=compact"/>
 
 ![Snake animation](https://github.com/ermyjr/ermyjr/blob/output/github-contribution-grid-snake.svg)
