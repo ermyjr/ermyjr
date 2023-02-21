@@ -26,10 +26,9 @@ Também possuo conhecimento com as seguintes ferramentas:
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt = "logo-netlify"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt = "logo-vercel"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt = "logo-Databricks"/>
+<img src= "https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt = "logo-miro"/>
 <br>
 <br>
-<br>
-Contato pelos links:
 <br>
 <br>
 <a href="https://www.linkedin.com/in/Elizeu-Jr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
