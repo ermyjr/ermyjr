@@ -1,7 +1,7 @@
 Olá :wave:
 <br>
 <br>
-Me Chamo Elizeu Junior,podem buscar como ErmyJr nas redes sociais.
+Me Chamo Elizeu Junior, podem buscar como ErmyJr nas redes sociais.
 <br>
 <br>
 Contate-me pelas plataformas:
